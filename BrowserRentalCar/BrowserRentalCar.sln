@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrowserRentalCar.Api", "BrowserRentalCar.Api\BrowserRentalCar.Api.csproj", "{B4B4FAC1-F4A0-44F1-A96D-813D4C821277}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrowserRentalCar.Application", "BrowserRentalCar.Application\BrowserRentalCar.Application.csproj", "{92AAC089-40A5-4F5C-8A97-ED27E0AAF989}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrowserRentalCar.Domain", "BrowserRentalCar.Domain\BrowserRentalCar.Domain.csproj", "{996C1C2B-42E2-48B7-8127-6C8F391B5A7C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrowserRentalCar.Infraestructure", "BrowserRentalCar.Infraestructure\BrowserRentalCar.Infraestructure.csproj", "{5C6312FF-157D-414F-BC3F-E80B8A4C9413}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserRentalCar.Application.Test", "BrowserRentalCar.Application.Test\BrowserRentalCar.Application.Test.csproj", "{DF1BC117-2FC7-4B53-9B53-8D505F428604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4B4FAC1-F4A0-44F1-A96D-813D4C821277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B4FAC1-F4A0-44F1-A96D-813D4C821277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B4FAC1-F4A0-44F1-A96D-813D4C821277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B4FAC1-F4A0-44F1-A96D-813D4C821277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92AAC089-40A5-4F5C-8A97-ED27E0AAF989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92AAC089-40A5-4F5C-8A97-ED27E0AAF989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92AAC089-40A5-4F5C-8A97-ED27E0AAF989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92AAC089-40A5-4F5C-8A97-ED27E0AAF989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{996C1C2B-42E2-48B7-8127-6C8F391B5A7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{996C1C2B-42E2-48B7-8127-6C8F391B5A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{996C1C2B-42E2-48B7-8127-6C8F391B5A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{996C1C2B-42E2-48B7-8127-6C8F391B5A7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C6312FF-157D-414F-BC3F-E80B8A4C9413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C6312FF-157D-414F-BC3F-E80B8A4C9413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C6312FF-157D-414F-BC3F-E80B8A4C9413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C6312FF-157D-414F-BC3F-E80B8A4C9413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF1BC117-2FC7-4B53-9B53-8D505F428604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF1BC117-2FC7-4B53-9B53-8D505F428604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF1BC117-2FC7-4B53-9B53-8D505F428604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF1BC117-2FC7-4B53-9B53-8D505F428604}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EAFB782-F14A-44DF-B58D-031DC2B8ED5D}
+	EndGlobalSection
+EndGlobal

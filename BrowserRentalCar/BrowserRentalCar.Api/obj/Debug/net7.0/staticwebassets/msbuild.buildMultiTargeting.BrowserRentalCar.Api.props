@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BrowserRentalCar.Api.props" />
+</Project>
